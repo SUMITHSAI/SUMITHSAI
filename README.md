@@ -21,6 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=SUMITHSAI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SUMITHSAI&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITHSAI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<hr>
+<hr></hr>
+
 [![@sumithsai's Holopin badges](https://holopin.me/sumithsai)](https://holopin.io/@sumithsai)
 
